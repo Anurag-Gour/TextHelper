@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/texthelper/static/css/main.4b4b0170.css",
+    "main.js": "/texthelper/static/js/main.682d4afa.js",
+    "static/media/TexthelperLogo.png": "/texthelper/static/media/TexthelperLogo.12c2bce5778014fce74f.png",
+    "index.html": "/texthelper/index.html",
+    "main.4b4b0170.css.map": "/texthelper/static/css/main.4b4b0170.css.map",
+    "main.682d4afa.js.map": "/texthelper/static/js/main.682d4afa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b4b0170.css",
+    "static/js/main.682d4afa.js"
+  ]
+}
